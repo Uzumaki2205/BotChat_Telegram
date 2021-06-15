@@ -26,6 +26,11 @@ pip install beautifulsoup4
 python bot.py
 ```
 
+## Function
+
+-   Crawl Data in [VnExpress](https://vnexpress.net/)
+-   Updating....
+
 ## Customize
 
 -   Create Multiple Function into Method Folder
